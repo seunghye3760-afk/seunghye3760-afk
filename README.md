@@ -9,6 +9,12 @@ Agentic RAG의 검색·검증 흐름과 모델 서빙에 관심을 두고 있습
 
 <br />
 
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github&theme=dark&perline=5" alt="Python, FastAPI, Docker, Git, GitHub" />
+
+<br />
+
 ## Focus
 
 | AI & Retrieval | Backend & Serving | Engineering |
@@ -42,4 +48,14 @@ FastAPI 모델 서빙부터 MLflow 기반 모델 관리, 드리프트 감지와 
 
 <br />
 
+## GitHub Activity
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seunghye3760-afk&bg_color=0f172a&color=cbd5e1&line=60a5fa&point=93c5fd&area=true&area_color=1e3a5f&hide_border=true&radius=12&custom_title=Daily%20Contributions" alt="최근 31일 일별 GitHub 기여 기록" width="100%" />
+
+<br />
+
+## Languages
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=seunghye3760-afk&layout=compact&langs_count=6&hide_border=true&bg_color=0f172a&title_color=93c5fd&text_color=cbd5e1&border_radius=12&card_width=460&custom_title=Most%20Used%20Languages" alt="공개 저장소의 언어별 코드 비중" />
+
+<sub>언어 비중은 공개 저장소의 코드량 기준입니다. 비공개 저장소와 포크의 작업은 집계에서 제외될 수 있습니다.</sub>
