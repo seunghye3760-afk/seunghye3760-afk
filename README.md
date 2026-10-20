@@ -50,7 +50,7 @@ FastAPI 모델 서빙부터 MLflow 기반 모델 관리, 드리프트 감지와 
 
 ## GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seunghye3760-afk&bg_color=0f172a&color=cbd5e1&line=60a5fa&point=93c5fd&area=true&area_color=1e3a5f&hide_border=true&radius=12&custom_title=Daily%20Contributions" alt="최근 31일 일별 GitHub 기여 기록" width="100%" />
+<img src="https://ghchart.rshah.org/60a5fa/seunghye3760-afk" alt="최근 1년 일별 GitHub 기여 기록 — 블루 히트맵" width="100%" />
 
 <br />
 
